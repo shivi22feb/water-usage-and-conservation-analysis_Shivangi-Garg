@@ -1,0 +1,601 @@
+Household_ID,Area,Household_Size,Daily_Water_Usage,Conservation_Habits,Water_Saving_Facilities
+H001,Indirapuram,3,348.0,Moderate,No
+H002,Vaishali,4,488.0,Poor,Yes
+H003,Vasundhara,5,515.0,Good,No
+H004,Raj Nagar,6,654.0,Moderate,Yes
+H005,Crossings Republik,7,945.0,Poor,No
+H006,Indirapuram,8,768.0,Good,Yes
+H007,Vaishali,2,244.0,Moderate,No
+H008,Vasundhara,3,384.0,Poor,Yes
+H009,Raj Nagar,4,436.0,Good,No
+H010,Crossings Republik,5,575.0,Moderate,Yes
+H011,Indirapuram,6,846.0,Poor,No
+H012,Vaishali,7,714.0,Good,Yes
+H013,Vasundhara,8,1024.0,Moderate,No
+H014,Raj Nagar,2,268.0,Poor,Yes
+H015,Crossings Republik,3,345.0,Good,No
+H016,Indirapuram,4,484.0,Moderate,Yes
+H017,Vaishali,5,735.0,Poor,No
+H018,Vasundhara,6,648.0,Good,Yes
+H019,Raj Nagar,7,938.0,Moderate,No
+H020,Crossings Republik,8,1120.0,Poor,Yes
+H021,Indirapuram,2,242.0,Good,No
+H022,Vaishali,3,381.0,Moderate,Yes
+H023,Vasundhara,4,612.0,Poor,No
+H024,Raj Nagar,5,,Good,Yes
+H025,Crossings Republik,6,840.0,Moderate,No
+H026,Indirapuram,7,1022.0,Poor,Yes
+H027,Vaishali,8,1016.0,Good,No
+H028,Vasundhara,2,266.0,Moderate,Yes
+H029,Raj Nagar,3,477.0,Poor,No
+H030,Crossings Republik,4,480.0,Good,Yes
+H031,Indirapuram,5,730.0,Moderate,No
+H032,Vaishali,6,912.0,Poor,Yes
+H033,Vasundhara,7,931.0,Good,No
+H034,Raj Nagar,8,1112.0,Moderate,Yes
+H035,Crossings Republik,2,330.0,Poor,No
+H036,Indirapuram,3,270.0,Good,Yes
+H037,Vaishali,4,464.0,Moderate,No
+H038,Vasundhara,5,610.0,Poor,Yes
+H039,Raj Nagar,6,618.0,Good,No
+H040,Crossings Republik,7,763.0,Moderate,Yes
+H041,Indirapuram,8,1080.0,Poor,No
+H042,Vaishali,2,192.0,Good,Yes
+H043,Vasundhara,3,366.0,Moderate,No
+H044,Raj Nagar,4,512.0,Poor,Yes
+H045,Crossings Republik,5,545.0,Good,No
+H046,Indirapuram,6,690.0,Moderate,Yes
+H047,Vaishali,7,987.0,Poor,No
+H048,Vasundhara,8,816.0,Good,Yes
+H049,Raj Nagar,2,256.0,Moderate,No
+H050,Crossings Republik,3,402.0,Poor,Yes
+H051,Indirapuram,4,460.0,Good,No
+H052,Vaishali,5,605.0,Moderate,Yes
+H053,Vasundhara,6,882.0,Poor,No
+H054,Raj Nagar,7,756.0,Good,Yes
+H055,Crossings Republik,8,1072.0,Moderate,No
+H056,Indirapuram,2,280.0,Poor,Yes
+H057,Vaishali,3,363.0,Good,No
+H058,Vasundhara,4,508.0,Moderate,Yes
+H059,Raj Nagar,5,765.0,Poor,No
+H060,Crossings Republik,6,684.0,Good,Yes
+H061,Indirapuram,7,980.0,Moderate,No
+H062,Vaishali,8,1168.0,Poor,Yes
+H063,Vasundhara,2,254.0,Good,No
+H064,Raj Nagar,3,399.0,Moderate,Yes
+H065,Crossings Republik,4,636.0,Poor,No
+H066,Indirapuram,5,600.0,Good,Yes
+H067,Vaishali,6,876.0,Moderate,No
+H068,Vasundhara,7,1064.0,Poor,Yes
+H069,Raj Nagar,8,1064.0,Good,No
+H070,Crossings Republik,2,278.0,Moderate,Yes
+H071,Indirapuram,3,495.0,Poor,No
+H072,Vaishali,4,360.0,Good,Yes
+H073,Vasundhara,5,580.0,Moderate,No
+H074,Raj Nagar,6,732.0,Poor,Yes
+H075,Crossings Republik,7,721.0,Good,No
+H076,Indirapuram,8,872.0,Moderate,Yes
+H077,Vaishali,2,270.0,Poor,No
+H078,Vasundhara,3,288.0,Good,Yes
+H079,Raj Nagar,4,488.0,Moderate,No
+H080,Crossings Republik,5,640.0,Poor,Yes
+H081,Indirapuram,6,654.0,Good,No
+H082,Vaishali,7,805.0,Moderate,Yes
+H083,Vasundhara,8,1128.0,Poor,No
+H084,Raj Nagar,2,204.0,Good,Yes
+H085,Crossings Republik,3,384.0,Moderate,No
+H086,Indirapuram,4,536.0,Poor,Yes
+H087,Vaishali,5,575.0,Good,No
+H088,Vasundhara,6,,Moderate,Yes
+H089,Raj Nagar,7,1029.0,Poor,No
+H090,Crossings Republik,8,864.0,Good,Yes
+H091,Indirapuram,2,268.0,Moderate,No
+H092,Vaishali,3,420.0,Poor,Yes
+H093,Vasundhara,4,484.0,Good,No
+H094,Raj Nagar,5,635.0,Moderate,Yes
+H095,Crossings Republik,6,918.0,Poor,No
+H096,Indirapuram,7,798.0,Good,Yes
+H097,Vaishali,8,1120.0,Moderate,No
+H098,Vasundhara,2,292.0,Poor,Yes
+H099,Raj Nagar,3,381.0,Good,No
+H100,Crossings Republik,4,532.0,Moderate,Yes
+H101,Indirapuram,5,795.0,Poor,No
+H102,Vaishali,6,720.0,Good,Yes
+H103,Vasundhara,7,1022.0,Moderate,No
+H104,Raj Nagar,8,1216.0,Poor,Yes
+H105,Crossings Republik,2,266.0,Good,No
+H106,Indirapuram,3,417.0,Moderate,Yes
+H107,Vaishali,4,660.0,Poor,No
+H108,Vasundhara,5,450.0,Good,Yes
+H109,Raj Nagar,6,696.0,Moderate,No
+H110,Crossings Republik,7,854.0,Poor,Yes
+H111,Indirapuram,8,824.0,Good,No
+H112,Vaishali,2,218.0,Moderate,Yes
+H113,Vasundhara,3,405.0,Poor,No
+H114,Raj Nagar,4,384.0,Good,Yes
+H115,Crossings Republik,5,610.0,Moderate,No
+H116,Indirapuram,6,768.0,Poor,Yes
+H117,Vaishali,7,763.0,Good,No
+H118,Vasundhara,8,920.0,Moderate,Yes
+H119,Raj Nagar,2,282.0,Poor,No
+H120,Crossings Republik,3,-85.0,Good,Yes
+H121,Indirapuram,4,512.0,Moderate,No
+H122,Vaishali,5,670.0,Poor,Yes
+H123,Vasundhara,6,690.0,Good,No
+H124,Raj Nagar,7,847.0,Moderate,Yes
+H125,Crossings Republik,8,1176.0,Poor,No
+H126,Indirapuram,2,216.0,Good,Yes
+H127,Vaishali,3,402.0,Moderate,No
+H128,Vasundhara,4,560.0,Poor,Yes
+H129,Raj Nagar,5,605.0,Good,No
+H130,Crossings Republik,6,762.0,Moderate,Yes
+H131,Indirapuram,7,1071.0,Poor,No
+H132,Vaishali,8,912.0,Good,Yes
+H133,Vasundhara,2,280.0,Moderate,No
+H134,Raj Nagar,3,438.0,Poor,Yes
+H135,Crossings Republik,4,508.0,Good,No
+H136,Indirapuram,5,665.0,Moderate,Yes
+H137,Vaishali,6,954.0,Poor,No
+H138,Vasundhara,7,840.0,Good,Yes
+H139,Raj Nagar,8,1168.0,Moderate,No
+H140,Crossings Republik,2,304.0,Poor,Yes
+H141,Indirapuram,3,399.0,Good,No
+H142,Vaishali,4,556.0,Moderate,Yes
+H143,Vasundhara,5,825.0,Poor,No
+H144,Raj Nagar,6,540.0,Good,Yes
+H145,Crossings Republik,7,812.0,Moderate,No
+H146,Indirapuram,8,976.0,Poor,Yes
+H147,Vaishali,2,206.0,Good,No
+H148,Vasundhara,3,327.0,Moderate,Yes
+H149,Raj Nagar,4,540.0,Poor,No
+H150,Crossings Republik,5,480.0,Good,Yes
+H151,Indirapuram,6,732.0,Moderate,No
+H152,Vaishali,7,896.0,Poor,Yes
+H153,Vasundhara,8,872.0,Good,No
+H154,Raj Nagar,2,230.0,Moderate,Yes
+H155,Crossings Republik,3,423.0,Poor,No
+H156,Indirapuram,4,408.0,Good,Yes
+H157,Vaishali,5,640.0,Moderate,No
+H158,Vasundhara,6,804.0,Poor,Yes
+H159,Raj Nagar,7,805.0,Good,No
+H160,Crossings Republik,8,968.0,Moderate,Yes
+H161,Indirapuram,2,294.0,Poor,No
+H162,Vaishali,3,324.0,Good,Yes
+H163,Vasundhara,4,536.0,Moderate,No
+H164,Raj Nagar,5,700.0,Poor,Yes
+H165,Crossings Republik,6,726.0,Good,No
+H166,Indirapuram,7,889.0,Moderate,Yes
+H167,Vaishali,8,1224.0,Poor,No
+H168,Vasundhara,2,228.0,Good,Yes
+H169,Raj Nagar,3,420.0,Moderate,No
+H170,Crossings Republik,4,584.0,Poor,Yes
+H171,Indirapuram,5,635.0,Good,No
+H172,Vaishali,6,798.0,Moderate,Yes
+H173,Vasundhara,7,,Poor,No
+H174,Raj Nagar,8,960.0,Good,Yes
+H175,Crossings Republik,2,292.0,Moderate,No
+H176,Indirapuram,3,456.0,Poor,Yes
+H177,Vaishali,4,532.0,Good,No
+H178,Vasundhara,5,695.0,Moderate,Yes
+H179,Raj Nagar,6,990.0,Poor,No
+H180,Crossings Republik,7,630.0,Good,Yes
+H181,Indirapuram,8,928.0,Moderate,No
+H182,Vaishali,2,244.0,Poor,Yes
+H183,Vasundhara,3,309.0,Good,No
+H184,Raj Nagar,4,436.0,Moderate,Yes
+H185,Crossings Republik,5,675.0,Poor,No
+H186,Indirapuram,6,576.0,Good,Yes
+H187,Vaishali,7,854.0,Moderate,No
+H188,Vasundhara,8,1024.0,Poor,Yes
+H189,Raj Nagar,2,218.0,Good,No
+H190,Crossings Republik,3,345.0,Moderate,Yes
+H191,Indirapuram,4,564.0,Poor,No
+H192,Vaishali,5,510.0,Good,Yes
+H193,Vasundhara,6,768.0,Moderate,No
+H194,Raj Nagar,7,938.0,Poor,Yes
+H195,Crossings Republik,8,920.0,Good,No
+H196,Indirapuram,2,242.0,Moderate,Yes
+H197,Vaishali,3,441.0,Poor,No
+H198,Vasundhara,4,432.0,Good,Yes
+H199,Raj Nagar,5,670.0,Moderate,No
+H200,Crossings Republik,6,840.0,Poor,Yes
+H201,Indirapuram,7,847.0,Good,No
+H202,Vaishali,8,1016.0,Moderate,Yes
+H203,Vasundhara,2,306.0,Poor,No
+H204,Raj Nagar,3,342.0,Good,Yes
+H205,Crossings Republik,4,560.0,Moderate,No
+H206,Indirapuram,5,730.0,Poor,Yes
+H207,Vaishali,6,762.0,Good,No
+H208,Vasundhara,7,931.0,Moderate,Yes
+H209,Raj Nagar,8,1272.0,Poor,No
+H210,Crossings Republik,2,240.0,Good,Yes
+H211,Indirapuram,3,438.0,Moderate,No
+H212,Vaishali,4,608.0,Poor,Yes
+H213,Vasundhara,5,665.0,Good,No
+H214,Raj Nagar,6,834.0,Moderate,Yes
+H215,Crossings Republik,7,1155.0,Poor,No
+H216,Indirapuram,8,720.0,Good,Yes
+H217,Vaishali,2,232.0,Moderate,No
+H218,Vasundhara,3,366.0,Poor,Yes
+H219,Raj Nagar,4,412.0,Good,No
+H220,Crossings Republik,5,545.0,Moderate,Yes
+H221,Indirapuram,6,810.0,Poor,No
+H222,Vaishali,7,672.0,Good,Yes
+H223,Vasundhara,8,976.0,Moderate,No
+H224,Raj Nagar,2,256.0,Poor,Yes
+H225,Crossings Republik,3,327.0,Good,No
+H226,Indirapuram,4,460.0,Moderate,Yes
+H227,Vaishali,5,705.0,Poor,No
+H228,Vasundhara,6,612.0,Good,Yes
+H229,Raj Nagar,7,896.0,Moderate,No
+H230,Crossings Republik,8,1072.0,Poor,Yes
+H231,Indirapuram,2,230.0,Good,No
+H232,Vaishali,3,363.0,Moderate,Yes
+H233,Vasundhara,4,588.0,Poor,No
+H234,Raj Nagar,5,540.0,Good,Yes
+H235,Crossings Republik,6,804.0,Moderate,No
+H236,Indirapuram,7,980.0,Poor,Yes
+H237,Vaishali,8,968.0,Good,No
+H238,Vasundhara,2,254.0,Moderate,Yes
+H239,Raj Nagar,3,459.0,Poor,No
+H240,Crossings Republik,4,456.0,Good,Yes
+H241,Indirapuram,5,700.0,Moderate,No
+H242,Vaishali,6,876.0,Poor,Yes
+H243,Vasundhara,7,889.0,Good,No
+H244,Raj Nagar,8,1064.0,Moderate,Yes
+H245,Crossings Republik,2,318.0,Poor,No
+H246,Indirapuram,3,360.0,Good,Yes
+H247,Vaishali,4,584.0,Moderate,No
+H248,Vasundhara,5,760.0,Poor,Yes
+H249,Raj Nagar,6,798.0,Good,No
+H250,Crossings Republik,7,1850.0,Moderate,Yes
+H251,Indirapuram,8,1320.0,Poor,No
+H252,Vaishali,2,180.0,Good,Yes
+H253,Vasundhara,3,348.0,Moderate,No
+H254,Raj Nagar,4,488.0,Poor,Yes
+H255,Crossings Republik,5,515.0,Good,No
+H256,Indirapuram,6,654.0,Moderate,Yes
+H257,Vaishali,7,945.0,Poor,No
+H258,Vasundhara,8,768.0,Good,Yes
+H259,Raj Nagar,2,244.0,Moderate,No
+H260,Crossings Republik,3,384.0,Poor,Yes
+H261,Indirapuram,4,436.0,Good,No
+H262,Vaishali,5,575.0,Moderate,Yes
+H263,Vasundhara,6,846.0,Poor,No
+H264,Raj Nagar,7,714.0,Good,Yes
+H265,Crossings Republik,8,1024.0,Moderate,No
+H266,Indirapuram,2,,Poor,Yes
+H267,Vaishali,3,345.0,Good,No
+H268,Vasundhara,4,484.0,Moderate,Yes
+H269,Raj Nagar,5,735.0,Poor,No
+H270,Crossings Republik,6,648.0,Good,Yes
+H271,Indirapuram,7,938.0,Moderate,No
+H272,Vaishali,8,1120.0,Poor,Yes
+H273,Vasundhara,2,242.0,Good,No
+H274,Raj Nagar,3,381.0,Moderate,Yes
+H275,Crossings Republik,4,612.0,Poor,No
+H276,Indirapuram,5,570.0,Good,Yes
+H277,Vaishali,6,840.0,Moderate,No
+H278,Vasundhara,7,1022.0,Poor,Yes
+H279,Raj Nagar,8,1016.0,Good,No
+H280,Crossings Republik,2,266.0,Moderate,Yes
+H281,Indirapuram,3,477.0,Poor,No
+H282,Vaishali,4,480.0,Good,Yes
+H283,Vasundhara,5,730.0,Moderate,No
+H284,Raj Nagar,6,912.0,Poor,Yes
+H285,Crossings Republik,7,931.0,Good,No
+H286,Indirapuram,8,1112.0,Moderate,Yes
+H287,Vaishali,2,330.0,Poor,No
+H288,Vasundhara,3,270.0,Good,Yes
+H289,Raj Nagar,4,464.0,Moderate,No
+H290,Crossings Republik,5,610.0,Poor,Yes
+H291,Indirapuram,6,618.0,Good,No
+H292,Vaishali,7,763.0,Moderate,Yes
+H293,Vasundhara,8,1080.0,Poor,No
+H294,Raj Nagar,2,192.0,Good,Yes
+H295,Crossings Republik,3,366.0,Moderate,No
+H296,Indirapuram,4,512.0,Poor,Yes
+H297,Vaishali,5,545.0,Good,No
+H298,Vasundhara,6,690.0,Moderate,Yes
+H299,Raj Nagar,7,987.0,Poor,No
+H300,Crossings Republik,8,816.0,Good,Yes
+H301,Indirapuram,2,256.0,Moderate,No
+H302,Vaishali,3,402.0,Poor,Yes
+H303,Vasundhara,4,460.0,Good,No
+H304,Raj Nagar,5,605.0,Moderate,Yes
+H305,Crossings Republik,6,882.0,Poor,No
+H306,Indirapuram,7,756.0,Good,Yes
+H307,Vaishali,8,1072.0,Moderate,No
+H308,Vasundhara,2,280.0,Poor,Yes
+H309,Raj Nagar,3,363.0,Good,No
+H310,Crossings Republik,4,508.0,Moderate,Yes
+H311,Indirapuram,5,765.0,Poor,No
+H312,Vaishali,6,684.0,Good,Yes
+H313,Vasundhara,7,980.0,Moderate,No
+H314,Raj Nagar,8,1168.0,Poor,Yes
+H315,Crossings Republik,2,254.0,Good,No
+H316,Indirapuram,3,399.0,Moderate,Yes
+H317,Vaishali,4,636.0,Poor,No
+H318,Vasundhara,5,600.0,Good,Yes
+H319,Raj Nagar,6,876.0,Moderate,No
+H320,Crossings Republik,7,1064.0,Poor,Yes
+H321,Indirapuram,8,1064.0,Good,No
+H322,Vaishali,2,278.0,Moderate,Yes
+H323,Vasundhara,3,495.0,Poor,No
+H324,Raj Nagar,4,360.0,Good,Yes
+H325,Crossings Republik,5,580.0,Moderate,No
+H326,Indirapuram,6,732.0,Poor,Yes
+H327,Vaishali,7,721.0,Good,No
+H328,Vasundhara,8,872.0,Moderate,Yes
+H329,Raj Nagar,2,270.0,Poor,No
+H330,Crossings Republik,3,288.0,Good,Yes
+H331,Indirapuram,4,488.0,Moderate,No
+H332,Vaishali,5,640.0,Poor,Yes
+H333,Vasundhara,6,654.0,Good,No
+H334,Raj Nagar,7,805.0,Moderate,Yes
+H335,Crossings Republik,8,1128.0,Poor,No
+H336,Indirapuram,2,204.0,Good,Yes
+H337,Vaishali,3,384.0,Moderate,No
+H338,Vasundhara,4,536.0,Poor,Yes
+H339,Raj Nagar,5,575.0,Good,No
+H340,Crossings Republik,6,726.0,Moderate,Yes
+H341,Indirapuram,7,1029.0,Poor,No
+H342,Vaishali,8,864.0,Good,Yes
+H343,Vasundhara,2,268.0,Moderate,No
+H344,Raj Nagar,3,420.0,Poor,Yes
+H345,Crossings Republik,4,484.0,Good,No
+H346,Indirapuram,5,635.0,Moderate,Yes
+H347,Vaishali,6,918.0,Poor,No
+H348,Vasundhara,7,798.0,Good,Yes
+H349,Raj Nagar,8,1120.0,Moderate,No
+H350,Crossings Republik,2,292.0,Poor,Yes
+H351,Indirapuram,3,381.0,Good,No
+H352,Vaishali,4,532.0,Moderate,Yes
+H353,Vasundhara,5,795.0,Poor,No
+H354,Raj Nagar,6,720.0,Good,Yes
+H355,Crossings Republik,7,1022.0,Moderate,No
+H356,Indirapuram,8,1216.0,Poor,Yes
+H357,Vaishali,2,266.0,Good,No
+H358,Vasundhara,3,417.0,Moderate,Yes
+H359,Raj Nagar,4,660.0,Poor,No
+H360,Crossings Republik,5,450.0,Good,Yes
+H361,Indirapuram,6,696.0,Moderate,No
+H362,Vaishali,7,854.0,Poor,Yes
+H363,Vasundhara,8,824.0,Good,No
+H364,Raj Nagar,2,218.0,Moderate,Yes
+H365,Crossings Republik,3,405.0,Poor,No
+H366,Indirapuram,4,384.0,Good,Yes
+H367,Vaishali,5,610.0,Moderate,No
+H368,Vasundhara,6,768.0,Poor,Yes
+H369,Raj Nagar,7,763.0,Good,No
+H370,Crossings Republik,8,920.0,Moderate,Yes
+H371,Indirapuram,2,282.0,Poor,No
+H372,Vaishali,3,306.0,Good,Yes
+H373,Vasundhara,4,512.0,Moderate,No
+H374,Raj Nagar,5,670.0,Poor,Yes
+H375,Crossings Republik,6,690.0,Good,No
+H376,Indirapuram,7,847.0,Moderate,Yes
+H377,Vaishali,8,1176.0,Poor,No
+H378,Vasundhara,2,216.0,Good,Yes
+H379,Raj Nagar,3,402.0,Moderate,No
+H380,Crossings Republik,4,560.0,Poor,Yes
+H381,Indirapuram,5,605.0,Good,No
+H382,Vaishali,6,762.0,Moderate,Yes
+H383,Vasundhara,7,1071.0,Poor,No
+H384,Raj Nagar,8,912.0,Good,Yes
+H385,Crossings Republik,2,280.0,Moderate,No
+H386,Indirapuram,3,438.0,Poor,Yes
+H387,Vaishali,4,508.0,Good,No
+H388,Vasundhara,5,665.0,Moderate,Yes
+H389,Raj Nagar,6,954.0,Poor,No
+H390,Crossings Republik,7,840.0,Good,Yes
+H391,Indirapuram,8,,Moderate,No
+H392,Vaishali,2,304.0,Poor,Yes
+H393,Vasundhara,3,399.0,Good,No
+H394,Raj Nagar,4,556.0,Moderate,Yes
+H395,Crossings Republik,5,825.0,Poor,No
+H396,Indirapuram,6,540.0,Good,Yes
+H397,Vaishali,7,812.0,Moderate,No
+H398,Vasundhara,8,976.0,Poor,Yes
+H399,Raj Nagar,2,206.0,Good,No
+H400,Crossings Republik,3,327.0,Moderate,Yes
+H401,Indirapuram,4,540.0,Poor,No
+H402,Vaishali,5,480.0,Good,Yes
+H403,Vasundhara,6,732.0,Moderate,No
+H404,Raj Nagar,7,896.0,Poor,Yes
+H405,Crossings Republik,8,872.0,Good,No
+H406,Indirapuram,2,230.0,Moderate,Yes
+H407,Vaishali,3,423.0,Poor,No
+H408,Vasundhara,4,408.0,Good,Yes
+H409,Raj Nagar,5,640.0,Moderate,No
+H410,Crossings Republik,6,804.0,Poor,Yes
+H411,Indirapuram,7,805.0,Good,No
+H412,Vaishali,8,968.0,Moderate,Yes
+H413,Vasundhara,2,294.0,Poor,No
+H414,Raj Nagar,3,324.0,Good,Yes
+H415,Crossings Republik,4,536.0,Moderate,No
+H416,Indirapuram,5,700.0,Poor,Yes
+H417,Vaishali,6,726.0,Good,No
+H418,Vasundhara,7,889.0,Moderate,Yes
+H419,Raj Nagar,8,1224.0,Poor,No
+H420,Crossings Republik,2,-140.0,Good,Yes
+H421,Indirapuram,3,420.0,Moderate,No
+H422,Vaishali,4,584.0,Poor,Yes
+H423,Vasundhara,5,635.0,Good,No
+H424,Raj Nagar,6,798.0,Moderate,Yes
+H425,Crossings Republik,7,1113.0,Poor,No
+H426,Indirapuram,8,960.0,Good,Yes
+H427,Vaishali,2,292.0,Moderate,No
+H428,Vasundhara,3,456.0,Poor,Yes
+H429,Raj Nagar,4,532.0,Good,No
+H430,Crossings Republik,5,695.0,Moderate,Yes
+H431,Indirapuram,6,990.0,Poor,No
+H432,Vaishali,7,630.0,Good,Yes
+H433,Vasundhara,8,928.0,Moderate,No
+H434,Raj Nagar,2,244.0,Poor,Yes
+H435,Crossings Republik,3,309.0,Good,No
+H436,Indirapuram,4,436.0,Moderate,Yes
+H437,Vaishali,5,675.0,Poor,No
+H438,Vasundhara,6,576.0,Good,Yes
+H439,Raj Nagar,7,854.0,Moderate,No
+H440,Crossings Republik,8,1024.0,Poor,Yes
+H441,Indirapuram,2,218.0,Good,No
+H442,Vaishali,3,345.0,Moderate,Yes
+H443,Vasundhara,4,564.0,Poor,No
+H444,Raj Nagar,5,510.0,Good,Yes
+H445,Crossings Republik,6,768.0,Moderate,No
+H446,Indirapuram,7,938.0,Poor,Yes
+H447,Vaishali,8,920.0,Good,No
+H448,Vasundhara,2,242.0,Moderate,Yes
+H449,Raj Nagar,3,441.0,Poor,No
+H450,Crossings Republik,4,432.0,Good,Yes
+H451,Indirapuram,5,670.0,Moderate,No
+H452,Vaishali,6,840.0,Poor,Yes
+H453,Vasundhara,7,847.0,Good,No
+H454,Raj Nagar,8,1016.0,Moderate,Yes
+H455,Crossings Republik,2,306.0,Poor,No
+H456,Indirapuram,3,342.0,Good,Yes
+H457,Vaishali,4,560.0,Moderate,No
+H458,Vasundhara,5,730.0,Poor,Yes
+H459,Raj Nagar,6,762.0,Good,No
+H460,Crossings Republik,7,931.0,Moderate,Yes
+H461,Indirapuram,8,1272.0,Poor,No
+H462,Vaishali,2,240.0,Good,Yes
+H463,Vasundhara,3,438.0,Moderate,No
+H464,Raj Nagar,4,608.0,Poor,Yes
+H465,Crossings Republik,5,665.0,Good,No
+H466,Indirapuram,6,834.0,Moderate,Yes
+H467,Vaishali,7,1155.0,Poor,No
+H468,Vasundhara,8,720.0,Good,Yes
+H469,Raj Nagar,2,232.0,Moderate,No
+H470,Crossings Republik,3,366.0,Poor,Yes
+H471,Indirapuram,4,412.0,Good,No
+H472,Vaishali,5,545.0,Moderate,Yes
+H473,Vasundhara,6,810.0,Poor,No
+H474,Raj Nagar,7,672.0,Good,Yes
+H475,Crossings Republik,8,976.0,Moderate,No
+H476,Indirapuram,2,256.0,Poor,Yes
+H477,Vaishali,3,,Good,No
+H478,Vasundhara,4,460.0,Moderate,Yes
+H479,Raj Nagar,5,705.0,Poor,No
+H480,Crossings Republik,6,612.0,Good,Yes
+H481,Indirapuram,7,896.0,Moderate,No
+H482,Vaishali,8,1072.0,Poor,Yes
+H483,Vasundhara,2,230.0,Good,No
+H484,Raj Nagar,3,363.0,Moderate,Yes
+H485,Crossings Republik,4,588.0,Poor,No
+H486,Indirapuram,5,540.0,Good,Yes
+H487,Vaishali,6,804.0,Moderate,No
+H488,Vasundhara,7,980.0,Poor,Yes
+H489,Raj Nagar,8,968.0,Good,No
+H490,Crossings Republik,2,254.0,Moderate,Yes
+H491,Indirapuram,3,459.0,Poor,No
+H492,Vaishali,4,456.0,Good,Yes
+H493,Vasundhara,5,700.0,Moderate,No
+H494,Raj Nagar,6,876.0,Poor,Yes
+H495,Crossings Republik,7,889.0,Good,No
+H496,Indirapuram,8,1064.0,Moderate,Yes
+H497,Vaishali,2,318.0,Poor,No
+H498,Vasundhara,3,360.0,Good,Yes
+H499,Raj Nagar,4,584.0,Moderate,No
+H500,Crossings Republik,5,760.0,Poor,Yes
+H501,Indirapuram,6,798.0,Good,No
+H502,Vaishali,7,973.0,Moderate,Yes
+H503,Vasundhara,8,1320.0,Poor,No
+H504,Raj Nagar,2,180.0,Good,Yes
+H505,Crossings Republik,3,348.0,Moderate,No
+H506,Indirapuram,4,488.0,Poor,Yes
+H507,Vaishali,5,515.0,Good,No
+H508,Vasundhara,6,654.0,Moderate,Yes
+H509,Raj Nagar,7,945.0,Poor,No
+H510,Crossings Republik,8,768.0,Good,Yes
+H511,Indirapuram,2,244.0,Moderate,No
+H512,Vaishali,3,384.0,Poor,Yes
+H513,Vasundhara,4,436.0,Good,No
+H514,Raj Nagar,5,575.0,Moderate,Yes
+H515,Crossings Republik,6,846.0,Poor,No
+H516,Indirapuram,7,714.0,Good,Yes
+H517,Vaishali,8,1024.0,Moderate,No
+H518,Vasundhara,2,268.0,Poor,Yes
+H519,Raj Nagar,3,345.0,Good,No
+H520,Crossings Republik,4,484.0,Moderate,Yes
+H521,Indirapuram,5,735.0,Poor,No
+H522,Vaishali,6,648.0,Good,Yes
+H523,Vasundhara,7,938.0,Moderate,No
+H524,Raj Nagar,8,1120.0,Poor,Yes
+H525,Crossings Republik,2,242.0,Good,No
+H526,Indirapuram,3,381.0,Moderate,Yes
+H527,Vaishali,4,612.0,Poor,No
+H528,Vasundhara,5,570.0,Good,Yes
+H529,Raj Nagar,6,840.0,Moderate,No
+H530,Crossings Republik,7,2200.0,Poor,Yes
+H531,Indirapuram,8,1016.0,Good,No
+H532,Vaishali,2,266.0,Moderate,Yes
+H533,Vasundhara,3,477.0,Poor,No
+H534,Raj Nagar,4,480.0,Good,Yes
+H535,Crossings Republik,5,730.0,Moderate,No
+H536,Indirapuram,6,912.0,Poor,Yes
+H537,Vaishali,7,931.0,Good,No
+H538,Vasundhara,8,1112.0,Moderate,Yes
+H539,Raj Nagar,2,330.0,Poor,No
+H540,Crossings Republik,3,270.0,Good,Yes
+H541,Indirapuram,4,464.0,Moderate,No
+H542,Vaishali,5,610.0,Poor,Yes
+H543,Vasundhara,6,618.0,Good,No
+H544,Raj Nagar,7,763.0,Moderate,Yes
+H545,Crossings Republik,8,1080.0,Poor,No
+H546,Indirapuram,2,192.0,Good,Yes
+H547,Vaishali,3,366.0,Moderate,No
+H548,Vasundhara,4,512.0,Poor,Yes
+H549,Raj Nagar,5,545.0,Good,No
+H550,Crossings Republik,6,690.0,Moderate,Yes
+H551,Indirapuram,7,987.0,Poor,No
+H552,Vaishali,8,,Good,Yes
+H553,Vasundhara,2,256.0,Moderate,No
+H554,Raj Nagar,3,402.0,Poor,Yes
+H555,Crossings Republik,4,460.0,Good,No
+H556,Indirapuram,5,605.0,Moderate,Yes
+H557,Vaishali,6,882.0,Poor,No
+H558,Vasundhara,7,756.0,Good,Yes
+H559,Raj Nagar,8,1072.0,Moderate,No
+H560,Crossings Republik,2,280.0,Poor,Yes
+H561,Indirapuram,3,363.0,Good,No
+H562,Vaishali,4,508.0,Moderate,Yes
+H563,Vasundhara,5,765.0,Poor,No
+H564,Raj Nagar,6,684.0,Good,Yes
+H565,Crossings Republik,7,980.0,Moderate,No
+H566,Indirapuram,8,1168.0,Poor,Yes
+H567,Vaishali,2,254.0,Good,No
+H568,Vasundhara,3,399.0,Moderate,Yes
+H569,Raj Nagar,4,636.0,Poor,No
+H570,Crossings Republik,5,600.0,Good,Yes
+H571,Indirapuram,6,876.0,Moderate,No
+H572,Vaishali,7,1064.0,Poor,Yes
+H573,Vasundhara,8,1064.0,Good,No
+H574,Raj Nagar,2,278.0,Moderate,Yes
+H575,Crossings Republik,3,495.0,Poor,No
+H576,Indirapuram,4,360.0,Good,Yes
+H577,Vaishali,5,580.0,Moderate,No
+H578,Vasundhara,6,732.0,Poor,Yes
+H579,Raj Nagar,7,721.0,Good,No
+H580,Crossings Republik,8,872.0,Moderate,Yes
+H581,Indirapuram,2,270.0,Poor,No
+H582,Vaishali,3,288.0,Good,Yes
+H583,Vasundhara,4,488.0,Moderate,No
+H584,Raj Nagar,5,640.0,Poor,Yes
+H585,Crossings Republik,6,654.0,Good,No
+H586,Indirapuram,7,805.0,Moderate,Yes
+H587,Vaishali,8,1128.0,Poor,No
+H588,Vasundhara,2,204.0,Good,Yes
+H589,Raj Nagar,3,,Moderate,No
+H590,Crossings Republik,4,536.0,Poor,Yes
+H591,Indirapuram,5,575.0,Good,No
+H592,Vaishali,6,726.0,Moderate,Yes
+H593,Vasundhara,7,1029.0,Poor,No
+H594,Raj Nagar,8,864.0,Good,Yes
+H595,Crossings Republik,2,268.0,Moderate,No
+H596,Indirapuram,3,420.0,Poor,Yes
+H597,Vaishali,4,484.0,Good,No
+H598,Vasundhara,5,635.0,Moderate,Yes
+H599,Raj Nagar,6,918.0,Poor,No
+H200,Crossings Republik,6,840.0,Poor,Yes
